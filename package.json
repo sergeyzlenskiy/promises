@@ -1,8 +1,8 @@
 {
-  "name": "set",
+  "name": "promises",
   "version": "1.0.0",
   "description": "",
-  "main": "errorRepository.js",
+  "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
